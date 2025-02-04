@@ -20,7 +20,7 @@ After an exploratory data analysis (EDA), we decided to train two separate regre
 ### Used Preprocessing Techniques:
 - PCA, MDS, StandardScaler, PVE/CPVE
 ### Used/Tested Models:
-- Ridge Regression, Lasso Regression, XGBoost, Support Vector Regression, Long short-term memory NNs (LSTM), inear Regression
+- Ridge Regression, Lasso Regression, XGBoost, Support Vector Regression, Long short-term memory NNs (LSTM), Linear Regression
 
 
 ### How we evaluated our models
